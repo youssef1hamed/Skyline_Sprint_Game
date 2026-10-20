@@ -74,18 +74,3 @@ This game was crafted to be clean, beginner-friendly, and lightweight:
 
 * 🔁 **Dynamic Difficulty**: Features smart collision detection and increasing speed mechanics that test your reaction time!
 
-## 🧪 Testing Checklist
-
-Before sharing your game or submitting your project, double-check these features:
-
-* \[x\] Main menu buttons (Start Game, Sound Toggle, Exit) respond to mouse clicks.
-
-* \[x\] Background music loops smoothly during gameplay.
-
-* \[x\] Pressing `SPACE` makes the hero jump with matching sound effects.
-
-* \[x\] Jumping over the charging rival speeds him up for the next pass!
-
-* \[x\] Game successfully transitions to the **Victory Screen** upon collecting 12 orbs.
-
-* \[x\] Hitting a barrier or rival triggers the **Game Over Screen** and plays the sad game-over track.
